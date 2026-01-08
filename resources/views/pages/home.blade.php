@@ -252,6 +252,46 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-envelope-open fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">creation of Commanditaire Vennootschap</h4>
+                                <p class="mb-4">
+                                    COMPANY NAME VALIDATION.
+                                        DEED OF ESTABLISHMENT PROCESSING.MINISTRY OF LAW AND HUMAN RIGHTS DECREE PROCESSING.
+                                        NPWP & SKT BUSINESS ENROLLMENT NUMBER (15 KBLI). INDEPENDENT DECLARATION K3L & SPUMKTTR
+                                        STANDARD CERTIFICATE
+                                </p>
+                                {{-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">
+                                    Read More
+                                </a> --}}
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-envelope-open fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">ACCOUNTING & TAX REPORTING</h4>
+                                <p class="mb-4">
+                                    COMPANY NAME VALIDATION.
+                                        DEED OF ESTABLISHMENT PROCESSING.MINISTRY OF LAW AND HUMAN RIGHTS DECREE PROCESSING.
+                                        NPWP & SKT BUSINESS ENROLLMENT NUMBER (15 KBLI). INDEPENDENT DECLARATION K3L & SPUMKTTR
+                                        STANDARD CERTIFICATE
+                                </p>
+                                {{-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">
+                                    Read More
+                                </a> --}}
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -683,8 +723,9 @@
                             </div>
                             <div class="ms-3">
                                 <h4 class="text-primary">Address</h4>
-                                <a href="https://share.google/9JnwBEpLM6GKTlHub" target="_blank" class="h5">Jl. Ir. H.
-                                    Juanda No. 10, Bogor 16121</a>
+                                <a href="https://www.google.com/maps/place/Tangerang,+Kota+Tangerang,+Banten/@-6.1765105,106.567633,12z" target="_blank" class="h5">
+                                    Tangerang
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -715,13 +756,21 @@
                 </div>
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeIn" data-wow-delay=".3s" style="height: 400px;">
-                        <div class="p-5 h-100 rounded contact-map">
-                            <iframe class="rounded w-100 h-100"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126829.29180929295!2d106.70949036332631!3d-6.595186739467978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c44a0cd6aab5%3A0x301576d14feb9a0!2sKota%20Bogor%2C%20Kp.%20Parung%20Jambu%2C%20Kota%20Bogor%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1767696430549!5m2!1sid!2sid"
-                                style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-                    </div>
+                   <div class="col-lg-12 wow fadeIn" data-wow-delay=".3s" style="height: 400px;">
+    <div class="p-5 h-100 rounded contact-map">
+        <iframe
+            class="rounded w-100 h-100"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253841.5515590742!2d106.567633!3d-6.1765105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f8e853d2e38d%3A0x301576d14feb9c0!2sTangerang%2C%20Kota%20Tangerang%2C%20Banten!5e0!3m2!1sid!2sid!4v1767700000000"
+            style="border:0;"
+            allowfullscreen
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+    </div>
+</div>
+
+                </div>
+
                     {{-- <div class="col-lg-6 wow fadeIn" data-wow-delay=".5s">
                         <div class="p-5 rounded contact-form">
                             <div class="mb-4">

@@ -3,7 +3,7 @@
         <div class="d-flex justify-content-between topbar">
             <div class="top-info">
                 <small class="me-3 text-white-50">
-                    <a href="#"><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>Jl. Ir. H. Juanda No. 10, Bogor 16121
+                    <a href="#"><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>Tangerang
                 </small>
                 <small class="me-3 text-white-50">
                     {{-- <a href="#"><i class="fas fa-envelope me-2 text-secondary"></i></a>team_suport@gmail.com --}}
