@@ -1,9 +1,12 @@
 <div class="container-fluid bg-primary">
     <div class="container">
         <nav class="navbar navbar-dark navbar-expand-lg py-0">
-            <a href="{{ url('/') }}" class="navbar-brand">
-                <h1 class="text-white fw-bold d-block">Softnara<span class="text-secondary">Development</span></h1>
+            <a href="{{ url('/') }}" class="navbar-brand d-flex align-items-center">
+                <h1 class="text-white fw-bold mb-0 fs-5 fs-md-4 fs-lg-3">
+                    Softnara<span class="text-secondary">Development</span>
+                </h1>
             </a>
+
             <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>

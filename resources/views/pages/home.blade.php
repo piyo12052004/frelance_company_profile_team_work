@@ -260,9 +260,9 @@
                                 <h4 class="mb-3">creation of Commanditaire Vennootschap</h4>
                                 <p class="mb-4">
                                     COMPANY NAME VALIDATION.
-                                        DEED OF ESTABLISHMENT PROCESSING.MINISTRY OF LAW AND HUMAN RIGHTS DECREE PROCESSING.
-                                        NPWP & SKT BUSINESS ENROLLMENT NUMBER (15 KBLI). INDEPENDENT DECLARATION K3L & SPUMKTTR
-                                        STANDARD CERTIFICATE
+                                    DEED OF ESTABLISHMENT PROCESSING.MINISTRY OF LAW AND HUMAN RIGHTS DECREE PROCESSING.
+                                    NPWP & SKT BUSINESS ENROLLMENT NUMBER (15 KBLI). INDEPENDENT DECLARATION K3L & SPUMKTTR
+                                    STANDARD CERTIFICATE
                                 </p>
                                 {{-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">
                                     Read More
@@ -280,9 +280,9 @@
                                 <h4 class="mb-3">ACCOUNTING & TAX REPORTING</h4>
                                 <p class="mb-4">
                                     COMPANY NAME VALIDATION.
-                                        DEED OF ESTABLISHMENT PROCESSING.MINISTRY OF LAW AND HUMAN RIGHTS DECREE PROCESSING.
-                                        NPWP & SKT BUSINESS ENROLLMENT NUMBER (15 KBLI). INDEPENDENT DECLARATION K3L & SPUMKTTR
-                                        STANDARD CERTIFICATE
+                                    DEED OF ESTABLISHMENT PROCESSING.MINISTRY OF LAW AND HUMAN RIGHTS DECREE PROCESSING.
+                                    NPWP & SKT BUSINESS ENROLLMENT NUMBER (15 KBLI). INDEPENDENT DECLARATION K3L & SPUMKTTR
+                                    STANDARD CERTIFICATE
                                 </p>
                                 {{-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">
                                     Read More
@@ -309,9 +309,9 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/image_1.png" class="img-fluid w-100 rounded" alt="" >
+                            <img src="img/image_1.png" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
-                                <a  class="text-center">
+                                <a class="text-center">
                                     <h4 class="text-secondary">Shengli</h4>
                                     <p class="m-0 text-white">Portfolio</p>
                                 </a>
@@ -322,7 +322,7 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project_lign_3.png" class="img-fluid w-100 rounded" alt="" >
+                            <img src="img/project_lign_3.png" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a class="text-center">
                                     <h4 class="text-secondary">PPDB</h4>
@@ -337,7 +337,7 @@
                         <div class="project-img">
                             <img src="img/project_lign_2.png" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
-                                <a  class="text-center">
+                                <a class="text-center">
                                     <h4 class="text-secondary">Dash Parking</h4>
                                     <p class="m-0 text-white">Monitoring Data</p>
                                 </a>
@@ -350,7 +350,7 @@
                         <div class="project-img">
                             <img src="img/project_lign_1.png" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
-                                <a  class="text-center">
+                                <a class="text-center">
                                     <h4 class="text-secondary">Web Aplikasi</h4>
                                     <p class="m-0 text-white">Portfolio</p>
                                 </a>
@@ -762,7 +762,8 @@
                             </div>
                             <div class="ms-3">
                                 <h4 class="text-primary">Address</h4>
-                                <a href="https://www.google.com/maps/place/Tangerang,+Kota+Tangerang,+Banten/@-6.1765105,106.567633,12z" target="_blank" class="h5">
+                                <a href="https://www.google.com/maps/place/Tangerang,+Kota+Tangerang,+Banten/@-6.1765105,106.567633,12z"
+                                    target="_blank" class="h5">
                                     Tangerang
                                 </a>
                             </div>
@@ -776,7 +777,8 @@
                             </div>
                             <div class="ms-3">
                                 <h4 class="text-primary">Call Us</h4>
-                                <a class="h5" href="https://wa.me/6285770322355?text=Hallo%20team%20work" target="_blank">+62 857-7032-2355</a>
+                                <a class="h5" href="https://wa.me/6285770322355?text=Hallo%20team%20work"
+                                    target="_blank">+62 857-7032-2355</a>
                             </div>
                         </div>
                     </div>
@@ -795,20 +797,17 @@
                 </div>
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeIn" data-wow-delay=".3s" style="height: 400px;">
-                   <div class="col-lg-12 wow fadeIn" data-wow-delay=".3s" style="height: 400px;">
-    <div class="p-5 h-100 rounded contact-map">
-        <iframe
-            class="rounded w-100 h-100"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253841.5515590742!2d106.567633!3d-6.1765105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f8e853d2e38d%3A0x301576d14feb9c0!2sTangerang%2C%20Kota%20Tangerang%2C%20Banten!5e0!3m2!1sid!2sid!4v1767700000000"
-            style="border:0;"
-            allowfullscreen
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
-        </iframe>
-    </div>
-</div>
+                        <div class="col-lg-12 wow fadeIn" data-wow-delay=".3s" style="height: 400px;">
+                            <div class="p-2 rounded contact-map ratio ratio-1x1 ratio-lg-16x9" style="height: 400px;">
+                                <iframe class="rounded w-100 h-100"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253841.5515590742!2d106.567633!3d-6.1765105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f8e853d2e38d%3A0x301576d14feb9c0!2sTangerang%2C%20Kota%20Tangerang%2C%20Banten!5e0!3m2!1sid!2sid!4v1767700000000"
+                                    style="border:0;" allowfullscreen loading="lazy">
+                                </iframe>
+                            </div>
 
-                </div>
+                        </div>
+
+                    </div>
 
                     {{-- <div class="col-lg-6 wow fadeIn" data-wow-delay=".5s">
                         <div class="p-5 rounded contact-form">

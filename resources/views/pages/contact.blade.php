@@ -106,11 +106,11 @@
                 </div>
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeIn" data-wow-delay=".3s" style="height: 400px;">
-                        <div class="p-5 h-100 rounded contact-map">
+                        <div class="p-2 rounded contact-map ratio ratio-1x1 ratio-lg-16x9" style="height: 400px;">
                             <iframe class="rounded w-100 h-100"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126829.29180929295!2d106.70949036332631!3d-6.595186739467978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c44a0cd6aab5%3A0x301576d14feb9a0!2sKota%20Bogor%2C%20Kp.%20Parung%20Jambu%2C%20Kota%20Bogor%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1767696430549!5m2!1sid!2sid"
-                                style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253841.5515590742!2d106.567633!3d-6.1765105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f8e853d2e38d%3A0x301576d14feb9c0!2sTangerang%2C%20Kota%20Tangerang%2C%20Banten!5e0!3m2!1sid!2sid!4v1767700000000"
+                                style="border:0;" allowfullscreen loading="lazy">
+                            </iframe>
                         </div>
                     </div>
                     {{-- <div class="col-lg-6 wow fadeIn" data-wow-delay=".5s">
