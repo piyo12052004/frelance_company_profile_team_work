@@ -2,7 +2,7 @@
     <div class="container">
         <nav class="navbar navbar-dark navbar-expand-lg py-0">
             <a href="{{ url('/') }}" class="navbar-brand">
-                <h1 class="text-white fw-bold d-block">Team<span class="text-secondary">Work</span></h1>
+                <h1 class="text-white fw-bold d-block">Softnara<span class="text-secondary">Development</span></h1>
             </a>
             <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>

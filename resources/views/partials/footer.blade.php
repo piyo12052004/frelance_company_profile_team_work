@@ -3,7 +3,7 @@
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <a href="{{ url('/') }}">
-                    <h1 class="text-white fw-bold d-block">Team<span class="text-secondary">Work</span></h1>
+                    <h1 class="text-white fw-bold d-block">Softnara<span class="text-secondary"></span></h1>
                 </a>
                 <p class="mt-4 text-light">
                     We are a dedicated IT solutions team delivering innovative, reliable,
@@ -41,11 +41,11 @@
         <hr class="text-light mt-5 mb-4">
         <div class="row">
             <div class="col-md-6 text-center text-md-start">
-                <span class="text-light"><a href="#" class="text-secondary">© Team Work</a>, All rights
+                <span class="text-light"><a href="#" class="text-secondary">© Softnara Development</a>, All rights
                     reserved.</span>
             </div>
             <div class="col-md-6 text-center text-md-end">
-                <span class="text-light">Designed By <a href="#" class="text-secondary">Team Work</a></span>
+                <span class="text-light">Designed By <a href="#" class="text-secondary">Softnara Development</a></span>
             </div>
         </div>
     </div>

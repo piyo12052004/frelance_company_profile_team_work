@@ -358,6 +358,45 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/asn-project.png" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a class="text-center">
+                                    <h4 class="text-secondary">Asn</h4>
+                                    <p class="m-0 text-white">Data Karyawan</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/penggajian.jpeg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a class="text-center">
+                                    <h4 class="text-secondary">Sistem HRD</h4>
+                                    <p class="m-0 text-white">ERP</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/E-commerce.jpeg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a class="text-center">
+                                    <h4 class="text-secondary">E-commerce</h4>
+                                    <p class="m-0 text-white">Website</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
