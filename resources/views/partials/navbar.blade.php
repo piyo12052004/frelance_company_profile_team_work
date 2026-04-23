@@ -45,7 +45,7 @@
             <!-- Additional Info -->
             <div class="d-none d-xl-flex flex-shrink-0">
                 <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
-                    <a href="https://wa.me/6285770322355?text=Hallo%20team%20work" target="_blank"
+                    <a href="https://wa.me/6285770485606?text=Hallo%20team%20work" target="_blank"
                         class="position-relative animated tada infinite">
                         <i class="fa fa-phone-alt text-white fa-2x"></i>
                         <div class="position-absolute" style="top: -7px; left: 20px;">
@@ -56,7 +56,7 @@
                 </div>
                 <div class="d-flex flex-column pe-4 border-end">
                     <span class="text-white-50">Have any questions?</span>
-                    <span class="text-secondary">Call: +62 857-7032-2355</span>
+                    <span class="text-secondary">Call: +62 857-7048-5606</span>
                 </div>
                 <div class="d-flex align-items-center justify-content-center ms-4">
                     {{-- <a href="#"><i class="bi bi-search text-white fa-2x"></i></a> --}}
