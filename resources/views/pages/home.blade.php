@@ -777,8 +777,8 @@
                             </div>
                             <div class="ms-3">
                                 <h4 class="text-primary">Call Us</h4>
-                                <a class="h5" href="https://wa.me/6285770322355?text=Hallo%20team%20work"
-                                    target="_blank">+62 857-7032-2355</a>
+                                <a class="h5" href="https://wa.me/6285770485606?text=Hallo%20team%20work"
+                                    target="_blank">+62 857-7048-5606</a>
                             </div>
                         </div>
                     </div>
